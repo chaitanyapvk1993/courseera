@@ -7,7 +7,7 @@ class App extends Component {
         return(
             <div id="main">
                {/* Do not remove the main div */}
-               <p>I am learning React. My life is getting better.</p>
+               <p>"I am learning React. My life is getting better. "</p>
             </div>
         )
     }
